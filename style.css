@@ -39,7 +39,7 @@ header {
 h1 {
     color: var(--GrayishBlue);
     font-weight: 200;
-    font-size: 3em;
+ 
 }
 
 
@@ -51,7 +51,7 @@ h2 {
 p {
     color: var(--GrayishBlue);
     margin-top: 1em;
-    font-weight: 600;
+    font-weight: 400;
     letter-spacing: -1.3px;
 
 }
@@ -116,7 +116,7 @@ img {
 
 @media only screen and (min-width: 725px) {
     h1 {
-        font-size: 18px;
+        font-size: 28px;
     }
 
     section {
