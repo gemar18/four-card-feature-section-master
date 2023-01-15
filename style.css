@@ -39,7 +39,9 @@ header {
 h1 {
     color: var(--GrayishBlue);
     font-weight: 200;
+    font-size: 2em;
 }
+
 
 h2 {
     color: var(--VeryDarkBlue);
@@ -64,7 +66,7 @@ section {
     background-color: white;
     margin-bottom: 1.7em;
     border-radius: .7em;
-    padding-top: 2em;
+    padding-top: 1.9em;
     box-shadow: 0px 10px 12px 2px hsla(211, 70%, 82%, 0.301);
 }
 
